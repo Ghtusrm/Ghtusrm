@@ -1,6 +1,19 @@
-Living proof code runs in my blood🧑‍💻
+# Hi there, I'm Ghtusrm 👋
 
-<!---
-Ghtusrm/Ghtusrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> **living proof code runs in my blood**
+
+## 👨‍🎓 About Me
+- Student passionate about learning and building with code
+- Part-time stocks trader 📈
+
+## 🛠️ Skills
+- **Languages:** Java (basics), JavaScript (basics), C (DSA up to graph traversal techniques), Python
+- **Python Libraries:** NumPy, pandas, Matplotlib, OpenCV
+- **Databases:** Proficient in SQL (up to joins)
+
+## 📚 Currently Learning
+Not sure what I'm up to right now—just exploring and enjoying the process!
+
+---
+
+*Thanks for visiting!*
