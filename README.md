@@ -1,4 +1,4 @@
-# Hi there, I'm Ghtusrm 👋
+# Hi there, I'm Nikhil 👋
 
 > **living proof code runs in my blood**
 
